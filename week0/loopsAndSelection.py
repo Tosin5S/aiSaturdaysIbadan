@@ -41,6 +41,6 @@ while (x <= 100):
     print (x)
     x = x + 2
 
-# assignment 1: print a prime numbers between 1 and 100
+# assignment 1: print prime numbers between 1 and 100
 # assignment 2: calculate n factorial
 # assignment 3: use math.pi to calculate the volume of a cone
